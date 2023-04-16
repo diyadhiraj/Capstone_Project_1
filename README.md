@@ -6,12 +6,12 @@ Bad Bank is a banking application that allows users to create an account, deposi
 Installation Guidelines:
 To run the Bad Bank application, follow these steps:
 1. Clone the repository to your local machine using `git clone`.
-2. Navigate to the project directory using `cd Bad-Bank`.
+2. Navigate to the project directory using `cd bad-bank`.
 3. Install the dependencies using `npm install`.
 4. Start the application using `npm start`.
 
 Screenshots:
-![Bad Bank Screenshot](https://i.imgur.com/6UH1GwO.png)
+![Bad Bank Screenshot](bank.png)
 
 Technology Used:
 Bad Bank is built using the following technologies:
